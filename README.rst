@@ -7,6 +7,12 @@ CKEditor for Django admin
 http://ckeditor.com/
 
 
+Documentation
+=============
+
+See `Django Suit documentation <http://django-suit.readthedocs.org/en/develop/wysiwyg.html>`_ on WYSIWYG editors.
+
+
 Build Status
 ============
 
