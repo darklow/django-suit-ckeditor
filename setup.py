@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-suit-ckeditor',
-    version='0.0.1',
+    version='0.0.2',
     description='CKEditor (WYSIWYG editor) integration app for Django admin. http://ckeditor.com',
     author='Kaspars Sprogis (darklow)',
     author_email='info@djangosuit.com',
